@@ -1,1 +1,1 @@
-# kaggle_disaster_tweets
+### Kaggle competition: Natural Language Processing with Disaster Tweets
